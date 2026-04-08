@@ -1,3 +1,0 @@
-Primeira frase
-
-Adicionando algo após o initial commit
